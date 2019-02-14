@@ -1,15 +1,16 @@
 body {
-    font-family: Roboto;
-    background: #2BC0E4;
+    font-family: Montserrat;
+    background: #00b09b;
+    /* ohhappiness from uigradients */
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #EAECC6, #2BC0E4);
+    background: -webkit-linear-gradient(to right, #96c93d, #00b09b);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #EAECC6, #2BC0E4);
+    background: linear-gradient(to right, #96c93d, #00b09b);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 h1 {
-    background: #2980b9;
+    background: #0e2f8b;
     color: white;
     margin: 0;
     padding: 10px 20px;
@@ -53,7 +54,7 @@ li:hover span {
 
 input {
     font-size: 18px;
-    color: #2980b9;
+    color: #0e2f8b;
     background-color: #F7F7F7;
     width: 100%;
     padding: 13px 13px 13px 20px;
@@ -63,7 +64,7 @@ input {
 
 input:focus {
     background: white;
-    border: 3px solid #2980b9;
+    border: 3px solid #0e2f8b;
     outline: none;
 }
 
