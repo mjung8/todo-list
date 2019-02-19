@@ -4,4 +4,4 @@ Code-along project from Udemy - Web Development Bootcamp.
 
 Add and remove items on a Todo List.
 
-[Play Game](https://mjung8.github.io/todo-list/)
+[Go to List](https://mjung8.github.io/todo-list/)
